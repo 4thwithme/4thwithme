@@ -7,14 +7,13 @@
   <img src="./gif/6-crop.gif" alt="Welcome Gif" width="100%" />
 </div>
 
----
+## 📚 About Me 📚
 
-<div style="font-family: 'Press Start 2P', serif;font-weight: 400;
-font-style: normal;font-size: 14px;"># Skill set</div>
+I have 8+ years of dev experience. Have Master's degree in Nuclear Physics and NPPs Engineering. My main traits are: problem solving (coding), curiosity, perseverance and empathy. I am passionate about machine learning, computer vision, and science.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux,vue,materialui,npm,js,ts,jest,astro,threejs,vite,webpack,gulp,babel,nodejs,bun,elysia,express,nestjs,elasticsearch,apollo,aws,graphql,prisma,mongodb,mysql,postgres,redis,rabbitmq,bash,linux,docker,lua,anaconda,py,tensorflow,ruby,rails,neovim,postman,git&perline=15)](https://skillicons.dev)
+As an engineering manager, and software engineer I focus on: the product quality and code (because I have high standard expectations from UX/UI), well-organized teamwork, healthy and friendly atmosphere in the team, and the result (result delivered on time). I’m an easily challenged person, the more difficult the task in front of me is, the more enthusiastically I tackle it. I like learning new technologies. Have deep expertise in front end development, back end, databases, UX/UI.
 
----
+## 📫 Cu 📫
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,3 +23,14 @@ font-style: normal;font-size: 14px;"># Skill set</div>
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📈 My Stat and languages 📈
+
+![4thwithme's GitHub stats](https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/languages.svg)
+![4thwithme's GitHub stats](https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/overview.svg)
+
+## 💻 My Tech Stack 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux,vue,materialui,npm,js,ts,jest,astro,threejs,vite,webpack,gulp,babel,nodejs,bun,elysia,express,nestjs,elasticsearch,apollo,aws,graphql,prisma,mongodb,mysql,postgres,redis,rabbitmq,bash,linux,docker,lua,anaconda,py,tensorflow,ruby,rails,neovim,postman,git&perline=15)](https://skillicons.dev)
+
+---
