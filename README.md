@@ -7,7 +7,7 @@
     border-radius: 10px;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);" />
 
-   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=6000&pause=100&color=F5DEB3&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome!;I'm+Andrii+Popenko!" alt="Typing SVG" style="position: absolute; top: 0; left: 25px; text-align: center; color: wheat; padding: 20px 0; margin-left: -25px; margin-right: -25px; background: rgba(0, 0, 0, 0.5); width: 100%; border-radius: 10px; box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5); text-shadow: 1px 1px 4px #ffffff; font-family: 'Courier New', Courier, monospace; font-size: 30px !important; line-height: 1.2;" />
+   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=6000&pause=100&color=F5DEB3&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome!;I'm+Andrii+Popenko!" alt="Typing SVG" style="displey:box; position: absolute; top: 0; left: 25px; text-align: center; color: wheat; padding: 20px 0; margin-left: -25px; margin-right: -25px; background: rgba(0, 0, 0, 0.5); width: 100%; border-radius: 10px; box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5); text-shadow: 1px 1px 4px #ffffff; font-family: 'Courier New', Courier, monospace; font-size: 30px !important; line-height: 1.2;" />
 
 </div>
 
