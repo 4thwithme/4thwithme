@@ -4,7 +4,7 @@
 
 <div style="position: relative; width: 100%;">
  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=8000&pause=100&color=F5DEB3&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=%3E+Welcome!+I'm+Andrii+Popenko!" alt="Typing SVG" />
-  <img src="./gif/6.gif" alt="Welcome Gif" width="100%" />
+  <img src="./gif/6-crop.gif" alt="Welcome Gif" width="100%" />
 </div>
 
 ---
