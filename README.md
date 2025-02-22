@@ -28,7 +28,7 @@ As an engineering manager, and software engineer I focus on: the product quality
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux,vue,materialui,npm,js,ts,jest,astro,threejs,vite,webpack,gulp,babel,nodejs,bun,elysia,express,nestjs,elasticsearch,apollo,aws,graphql,prisma,mongodb,mysql,postgres,redis,rabbitmq,bash,linux,docker,lua,anaconda,py,tensorflow,ruby,rails,neovim,postman,git&perline=15)](https://skillicons.dev)
 
 ---
-
+<div style="displey: flex;">
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
@@ -38,3 +38,6 @@ As an engineering manager, and software engineer I focus on: the product quality
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
   <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
+  <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
+  <img src="./gif/7.gif" alt="Welcome Gif" width="80px"  />
+</div>
