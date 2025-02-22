@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome 👋
+
+![Welcome Gif](./gifs/4.gif)
 
 <!--
 **4thwithme/4thwithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
