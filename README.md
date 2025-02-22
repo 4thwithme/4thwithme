@@ -1,7 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
 <style>
   * {
     font-family: "Press Start 2P", serif;
@@ -41,8 +37,11 @@
   #gif-welcome {
     text-shadow: 1px 1px 4px #ffffff;
   }
-
 </style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <div id="gif-wrapper">
   <img src="./gifs/6.gif" alt="Welcome Gif" id="gif" />
