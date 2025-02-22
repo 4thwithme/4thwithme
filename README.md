@@ -1,19 +1,12 @@
-#
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
-<style>
-  * {
-    font-family: "Press Start 2P", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-  #gif-wrapper {
-    position: relative;
-    width: 100%;
-  }
-
-  #gif-text {
-    position: absolute;
+<div style="position: relative; width: 100%;">
+  <img src="./gifs/6.gif" alt="Welcome Gif" style=" width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);" />
+  <div style=" position: absolute;
     top: 0;
     left: 25px;
     text-align: center;
@@ -28,26 +21,7 @@
     text-shadow: 1px 1px 4px #ffffff;
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px !important;
-    line-height: 1.2;
-  }
-  #gif {
-    width: 100%;
-    border-radius: 10px;
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
-  }
-
-  #gif-welcome {
-    text-shadow: 1px 1px 4px #ffffff;
-  }
-</style>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-<div id="gif-wrapper">
-  <img src="./gifs/6.gif" alt="Welcome Gif" id="gif" />
-  <div id="gif-text">
+    line-height: 1.2;">
    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=6000&pause=100&color=F5DEB3&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome!;I'm+Andrii+Popenko!" alt="Typing SVG" />
   </div>
 </div>
