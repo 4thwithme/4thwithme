@@ -9,6 +9,7 @@
 
 ## 📫 How to reach me 📫
 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://4thwithme.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aopopenko@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-popenko-3331b3193/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/4thwithne)
@@ -27,9 +28,10 @@ As an engineering manager, and software engineer I focus on: the product quality
 
 ## 📊 My GitHub Stats 📊
 
-![4thwithme's GitHub stats](https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/languages.svg)
-![4thwithme's GitHub stats](https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/overview.svg)
-
+<div>
+    <img src="https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/languages.svg" alt"4thwithme's GitHub stats" width="49%" />
+    <img src="https://raw.githubusercontent.com/4thwithme/github-stats-transparent/refs/heads/output/generated/overview.svg" alt"4thwithme's GitHub stats" width="49%" />
+</div>
 ## 📈 My Activity Graph 📈
 
 [![4thwithme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4thwithme&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
