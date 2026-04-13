@@ -55,6 +55,4 @@ As an Engineering Manager and software engineer, I focus on product quality, cle
   <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
   <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
     <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
 </div>
