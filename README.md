@@ -45,16 +45,16 @@ As an Engineering Manager and software engineer, I focus on product quality, cle
 ---
 
 <div style="display: flex;">
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-    <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-    <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-    <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
-  <img src="./gif/7.gif" alt="Footer Gif" width="81px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+    <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+    <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+    <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
+  <img src="./gif/7.gif" alt="Footer Gif" width="80px" />
 </div>
